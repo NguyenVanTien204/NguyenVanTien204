@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Data Engineer<br>- 📚 I'm currently learning Data Science</p>
+- 🔭 I’m working as Data Engineer
+ 
+- 📚 I'm currently learning Data Science
 
 - [My working email](mailto:vantiennguyen1424@gmail.com)
 
