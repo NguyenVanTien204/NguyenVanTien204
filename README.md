@@ -24,6 +24,9 @@
 
 <p align="left">I'm Nguyễn Văn Tiến <br>from Việt Nam<br><br>- 🔭 I’m working as Data Engineer<br>- 📚 I'm currently learning Data Science</p>
 
+[My working email](mailto:vantiennguyen1424@gmail.com)
+[My writing email](mailto:naivelle.writer@gmail.com)
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
