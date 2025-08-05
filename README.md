@@ -14,11 +14,13 @@
 
 ###
 
-- 🔭 I’m working as Data Engineer                        - [My working email](mailto:vantiennguyen1424@gmail.com)
+- 🔭 I’m working as Data Engineer                        
  
-- 📚 I'm currently learning Data Science                 - [My writing email](mailto:naivelle.writer@gmail.com)
+- 📚 I'm currently learning Data Science                 
 
+- [My working email](mailto:vantiennguyen1424@gmail.com)
 
+- [My writing email](mailto:naivelle.writer@gmail.com)
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
