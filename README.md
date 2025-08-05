@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NguyenVanTien204/NguyenVanTien204/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NguyenVanTien204/NguyenVanTien204/main/snake.svg" alt="Snake animation" />
 
 ###
 
