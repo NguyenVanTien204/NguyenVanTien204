@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/123646345?s=400&u=d2c1116d6a441b5b7f034b2166755674a275eaeb&v=4"  />
+<img align="left" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
