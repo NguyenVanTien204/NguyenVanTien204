@@ -1,189 +1,314 @@
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://www.facebook.com/matngu.evrd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Engineer+%7C+Machine+Learning+Enthusiast;Always+learning+new+technologies;Welcome+to+my+digital+space!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,20:A9DEF9,40:77D4FC,60:62B6CB,80:4A90A4,100:357A7F&height=200&section=footer&text=Nguyen%20Van%20Tien&20fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Engineer+%7C+Machine+Learning+Enthusiast;Always+learning+new+technologies;Welcome+to+my+digital+space!;Building+the+future+with+data!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=NguyenVanTien204&style=for-the-badge&color=brightgreen)
+  ![GitHub followers](https://img.shields.io/github/followers/NguyenVanTien204?style=for-the-badge&color=blue&label=Followers)
+  ![GitHub User's stars](https://img.shields.io/github/stars/NguyenVanTien204?style=for-the-badge&color=yellow&label=Stars)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```python
+#!/usr/bin/env python3
+
 class DataEngineer:
     def __init__(self):
         self.name = "Tien Nguyen"
-        self.role = "Data Engineer"
+        self.role = "Senior Data Engineer"
         self.language_spoken = ["vi_VN", "en_US"]
+        self.location = "Vietnam 🇻🇳"
+        self.experience = "3+ years"
+
         self.code = {
-            "backend": ["Python", "Java"],
-            "database": ["PostgreSQL", "MongoDB", "SQL Server"],
-            "big_data": ["Apache Spark", "Hadoop", "Kafka"],
-            "orchestration": ["Apache Airflow"],
-            "containerization": ["Docker", "Kubernetes"],
+            "language": ["Python", "Java"],
+            "Database": ["PostgreSQL", "MongoDB", "SQL Server"],
+            "Big_data": ["Apache Spark", "Hadoop", "Kafka"],
+            "Orchestration": ["Apache Airflow"],
+            "Containerization": ["Docker", "Kubernetes"],
             "ml_frameworks": ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
-            "tools": ["Jupyter", "Notion", "FastAPI", "Flask"]
+            "tools": ["Jupyter", "Notion", "FastAPI", "Flask"],
+            "cloud": ["Learning"]
         }
-        self.current_focus = "Data Science & Machine Learning"
+
+        self.current_focus = "Data Science & MLOps"
+        self.learning = ["Machine Learning", "Cloud Architecture", "Data Science"]
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+        print("🚀 Thanks for dropping by! Let's build something amazing together.")
+
+    def get_daily_routine(self):
+        return [
+            "☕ Drink coffee",
+            "💻 Code awesome data pipelines",
+            "📊 Analyze data insights",
+            "🔧 Optimize ML models",
+            "📚 Learn new technologies",
+            "🌙 Dream in Python"
+        ]
 
 me = DataEngineer()
 me.say_hi()
+print("My daily routine:", me.get_daily_routine())
 ```
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo"  />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="apache airflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apachespark/apachespark-original.svg" height="40" alt="apache spark logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/hadoop/hadoop-original.svg" height="40" alt="apache hadoop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matplotlib/matplotlib-original.svg" height="40" alt="sklearn logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="sklearn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="40" alt="opencv logo"  />
-</div>
-
-###
-## 🌐 Connect with me
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <a href="https://linkedin.com/in/tien-nguyen" target="_blank">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/My SLQ-005571?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+</p>
+
+### ☁️ Big Data & Streaming
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/>
+</p>
+
+### 🐳 DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
+
+### 🤖 ML & Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</p>
+
+### 🌐 Web Frameworks & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+### 🛠️ Tools & IDEs
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,postgresql,mongodb,mysql,docker,kubernetes,tensorflow,scikitlearn,kafka,spark,gcp&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  <a href="https://linkedin.com/in/tien-nguyen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/matngu.evrd" target="_blank">
+  <a href="https://www.facebook.com/matngu.evrd">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:vantiennguyen1424@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
+  <a href="https://discord.gg/your-discord">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</div>
-<div align="center">
-  <h3>💼 Professional Contact</h3>
-  <p><strong>Work:</strong> <a href="mailto:vantiennguyen1424@gmail.com">vantiennguyen1424@gmail.com</a></p>
-  <p><strong>Writing:</strong> <a href="mailto:naivelle.writer@gmail.com">naivelle.writer@gmail.com</a></p>
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-  🔭 **Currently Working On:** Advanced Data Pipeline Architecture
-  📚 **Learning:** Data Science, Cloud, Devops
-  🤝 **Looking to Collaborate:** Open Source Data Engineering Projects  
-  💬 **Ask me about:** Python, Data Engineering, Machine Learning
-  ⚡ **Fun Fact:** I debug with print statements and I'm not ashamed!
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenVanTien204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NguyenVanTien204&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenVanTien204&theme=algolia" alt="GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
+</div>
+
+### 💼 Professional Contact
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💼%20Work%20Email-vantiennguyen1424@gmail.com-blue?style=for-the-badge" alt="Work Email"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/✍️%20Writing%20Email-naivelle.writer@gmail.com-red?style=for-the-badge" alt="Writing Email"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Current Focus & Goals
+
+<div>
+
+```yaml
+Current Status:
+  🔭 Working On: Advanced Data Pipeline Architecture & MLOps
+  📚 Learning: Machine Learning, Cloud Architecture, DevOps Best Practices, Data Science
+  🤝 Open to: Collaborate on Data Engineering & ML Projects
+  💬 Ask me about: Python, Data Engineering, Machine Learning, Big Data
+  ⚡ Fun Fact: I debug with print statements and I'm not ashamed!
+  🎵 Coding Soundtrack: Alternative Rock, Hiphop
+```
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenVanTien204&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NguyenVanTien204&theme=algolia&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 ---
-## 💭 Random Dev Quote
+
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenVanTien204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&border_color=F85D7F"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NguyenVanTien204&layout=compact&langs_count=10&theme=algolia&bg_color=0D1117&title_color=F85D7F&text_color=FFF&border_color=F85D7F"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenVanTien204&theme=algolia&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFF&sideNums=FFF&currStreakLabel=F8D866&sideLabels=F8D866&dates=FFF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenVanTien204&theme=algolia" alt="Profile Summary"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NguyenVanTien204&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenVanTien204&theme=react-dark&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 💡 Data Engineering Philosophy
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Data%20is%20the%20new%20oil,%20but%20analytics%20is%20the%20combustion%20engine&author=Peter%20Sondergaard" />
+</div>
+
+
+### 🧠 My Data Engineering Principles
+
+```mermaid
+graph LR
+    A[Raw Data] --> B[Clean & Validate]
+    B --> C[Transform & Enrich]
+    C --> D[Load & Store]
+    D --> E[Monitor & Optimize]
+    E --> F[Insights & Value]
+    F --> G[Business Impact]
+
+    style A fill:#ff6b6b
+    style G fill:#4ecdc4
+```
+
+
+---
+
+## 🎵 Currently Jamming To
+
+<div align="center">
+  <a href="https://open.spotify.com/user/hlu6gfs21rp9iu5c0vwi9kb7h">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hlu6gfs21rp9iu5c0vwi9kb7h&count=3&unique=true&width=400" alt="Spotify recently played" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenVanTien204/NguyenVanTien204/main/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenVanTien204/NguyenVanTien204/main/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NguyenVanTien204/NguyenVanTien204/main/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🎨 Random Developer Wisdom
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </div>
+
 ---
 
-###
-## 🐍 Watch my contributions get eaten by a snake 🐍
+## 💬 Let's Talk Data!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NguyenVanTien204/NguyenVanTien204/main/snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/hlu6gfs21rp9iu5c0vwi9kb7h">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hlu6gfs21rp9iu5c0vwi9kb7h&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
-###
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,20:A9DEF9,40:77D4FC,60:62B6CB,80:4A90A4,100:357A7F&height=200&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20found%20them%20interesting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 </div>
 
 <div align="center">
-  <h3>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House 🌟</h3>
+  <h3>🌟 "In God we trust. All others must bring data." - W. Edwards Deming 🌟</h3>
+  <p><em>Keep coding, keep learning, keep growing! 🚀</em></p>
 </div>
