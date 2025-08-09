@@ -8,19 +8,40 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-- 🔭 I’m working as Data Engineer                        
- 
-- 📚 I'm currently learning Data Science                 
+<h3 align="left">👩‍💻 About Me</h3>
 
-- [My working email](mailto:vantiennguyen1424@gmail.com)
+<table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="border-right: 1px solid #ddd;">
+      <p style="font-size: 16px; margin: 6px 0;">
+        <span style="font-size: 20px;">🔭</span> <strong>Working as:</strong><br />
+        Data Engineer
+      </p>
+      <p style="font-size: 16px; margin: 6px 0;">
+        <span style="font-size: 20px;">📚</span> <strong>Currently learning:</strong><br />
+        Data Science
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 20px;">
+      <p style="font-size: 16px; margin: 6px 0;">
+        <strong>💼 Working Email:</strong><br />
+        <a href="mailto:vantiennguyen1424@gmail.com" style="color: #1a73e8; text-decoration: none;">
+          vantiennguyen1424@gmail.com
+        </a>
+      </p>
+      <p style="font-size: 16px; margin: 6px 0;">
+        <strong>✍️ Writing Email:</strong><br />
+        <a href="mailto:naivelle.writer@gmail.com" style="color: #d93025; text-decoration: none;">
+          naivelle.writer@gmail.com
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- [My writing email](mailto:naivelle.writer@gmail.com)
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -35,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo"  />
 </div>
 
@@ -46,13 +67,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="apache airflow logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apachespark/apachespark-original.svg" height="40" alt="apache spark logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/hadoop/hadoop-original.svg" height="40" alt="apache hadoop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
@@ -67,6 +90,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matplotlib/matplotlib-original.svg" height="40" alt="sklearn logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="sklearn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
