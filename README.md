@@ -25,46 +25,27 @@
 
 
 ```python
-#!/usr/bin/env python3
-
 class DataEngineer:
     def __init__(self):
-        self.name = "Tien Nguyen"
-        self.role = "Senior Data Engineer"
+        self.name = "Nguyễn Văn Tiến"
+        self.role = "Data Engineer"
         self.language_spoken = ["vi_VN", "en_US"]
-        self.location = "Vietnam 🇻🇳"
-        self.experience = "3+ years"
-
         self.code = {
-            "language": ["Python", "Java"],
-            "Database": ["PostgreSQL", "MongoDB", "SQL Server"],
-            "Big_data": ["Apache Spark", "Hadoop", "Kafka"],
-            "Orchestration": ["Apache Airflow"],
-            "Containerization": ["Docker", "Kubernetes"],
+            "backend": ["Python", "Java"],
+            "database": ["PostgreSQL", "MongoDB", "SQL Server"],
+            "big_data": ["Apache Spark", "Hadoop", "Kafka"],
+            "orchestration": ["Apache Airflow"],
+            "containerization": ["Docker", "Kubernetes"],
             "ml_frameworks": ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
-            "tools": ["Jupyter", "Notion", "FastAPI", "Flask"],
-            "cloud": ["Learning"]
+            "tools": ["Jupyter", "Notion", "FastAPI", "Flask"]
         }
-
-        self.current_focus = "Data Science & MLOps"
-        self.learning = ["Machine Learning", "Cloud Architecture", "Data Science"]
-
+        self.current_focus = "Data Science & Machine Learning"
+        
     def say_hi(self):
-        print("🚀 Thanks for dropping by! Let's build something amazing together.")
-
-    def get_daily_routine(self):
-        return [
-            "☕ Drink coffee",
-            "💻 Code awesome data pipelines",
-            "📊 Analyze data insights",
-            "🔧 Optimize ML models",
-            "📚 Learn new technologies",
-            "🌙 Dream in Python"
-        ]
+        print("Thanks for dropping by! Let's build something amazing together.")
 
 me = DataEngineer()
 me.say_hi()
-print("My daily routine:", me.get_daily_routine())
 ```
 
 <div align="center">
