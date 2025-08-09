@@ -7,40 +7,39 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Engineer+%7C+Machine+Learning+Enthusiast;Always+learning+new+technologies;Welcome+to+my+digital+space!" alt="Typing SVG" />
+</div>
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+## 🚀 About Me
 
-<table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top" style="border-right: 1px solid #ddd;">
-      <p style="font-size: 16px; margin: 6px 0;">
-        <span style="font-size: 20px;">🔭</span> <strong>Working as:</strong><br />
-        Data Engineer
-      </p>
-      <p style="font-size: 16px; margin: 6px 0;">
-        <span style="font-size: 20px;">📚</span> <strong>Currently learning:</strong><br />
-        Data Science
-      </p>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 20px;">
-      <p style="font-size: 16px; margin: 6px 0;">
-        <strong>💼 Working Email:</strong><br />
-        <a href="mailto:vantiennguyen1424@gmail.com" style="color: #1a73e8; text-decoration: none;">
-          vantiennguyen1424@gmail.com
-        </a>
-      </p>
-      <p style="font-size: 16px; margin: 6px 0;">
-        <strong>✍️ Writing Email:</strong><br />
-        <a href="mailto:naivelle.writer@gmail.com" style="color: #d93025; text-decoration: none;">
-          naivelle.writer@gmail.com
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Tien Nguyen"
+        self.role = "Data Engineer"
+        self.language_spoken = ["vi_VN", "en_US"]
+        self.code = {
+            "backend": ["Python", "Java"],
+            "database": ["PostgreSQL", "MongoDB", "SQL Server"],
+            "big_data": ["Apache Spark", "Hadoop", "Kafka"],
+            "orchestration": ["Apache Airflow"],
+            "containerization": ["Docker", "Kubernetes"],
+            "ml_frameworks": ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
+            "tools": ["Jupyter", "Notion", "FastAPI", "Flask"]
+        }
+        self.current_focus = "Data Science & Machine Learning"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = DataEngineer()
+me.say_hi()
+```
 
 ###
 
@@ -101,14 +100,72 @@
 </div>
 
 ###
+## 🌐 Connect with me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenVanTien204&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <a href="https://linkedin.com/in/tien-nguyen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/matngu.evrd" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:vantiennguyen1424@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.gg/your-discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+<div align="center">
+  <h3>💼 Professional Contact</h3>
+  <p><strong>Work:</strong> <a href="mailto:vantiennguyen1424@gmail.com">vantiennguyen1424@gmail.com</a></p>
+  <p><strong>Writing:</strong> <a href="mailto:naivelle.writer@gmail.com">naivelle.writer@gmail.com</a></p>
 </div>
 
-###
+## 🎯 Current Focus
 
-<img src="https://raw.githubusercontent.com/NguyenVanTien204/NguyenVanTien204/main/snake.svg" alt="Snake animation" />
+<div align="center">
+
+  🔭 **Currently Working On:** Advanced Data Pipeline Architecture
+  📚 **Learning:** Data Science, Cloud, Devops
+  🤝 **Looking to Collaborate:** Open Source Data Engineering Projects  
+  💬 **Ask me about:** Python, Data Engineering, Machine Learning
+  ⚡ **Fun Fact:** I debug with print statements and I'm not ashamed!
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenVanTien204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NguyenVanTien204&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenVanTien204&theme=algolia" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenVanTien204&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+---
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+</div>
+---
+
+###
+## 🐍 Watch my contributions get eaten by a snake 🐍
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NguyenVanTien204/NguyenVanTien204/main/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -121,3 +178,13 @@
 </div>
 
 ###
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
+
+<div align="center">
+  <h3>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House 🌟</h3>
+</div>
