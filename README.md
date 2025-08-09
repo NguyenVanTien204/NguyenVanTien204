@@ -153,12 +153,16 @@ me.say_hi()
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/💼%20Work%20Email-vantiennguyen1424@gmail.com-blue?style=for-the-badge" alt="Work Email"/>
+        <a href="mailto:vantiennguyen1424@gmail.com">
+          <img src="https://img.shields.io/badge/💼%20Work%20Email-vantiennguyen1424@gmail.com-blue?style=for-the-badge" alt="Work Email"/>
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/✍️%20Writing%20Email-naivelle.writer@gmail.com-red?style=for-the-badge" alt="Writing Email"/>
+        <a href="mailto:naivelle.writer@gmail.com">
+          <img src="https://img.shields.io/badge/✍️%20Writing%20Email-naivelle.writer@gmail.com-red?style=for-the-badge" alt="Writing Email"/>
+        </a>
       </td>
     </tr>
   </table>
