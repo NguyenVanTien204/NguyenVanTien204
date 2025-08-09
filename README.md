@@ -127,7 +127,7 @@ me.say_hi()
 ## 🌐 Connect & Collaborate
 
 <div align="center">
-  <a href="https://linkedin.com/in/tien-nguyen">
+  <a href="https://www.linkedin.com/in/tiến-nguyễn-05a12936a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/matngu.evrd">
