@@ -221,13 +221,6 @@ Current Status:
 
 ---
 
-## 💡 Data Engineering Philosophy
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Data%20is%20the%20new%20oil,%20but%20analytics%20is%20the%20combustion%20engine&author=Peter%20Sondergaard" />
-</div>
-
-
 ### 🧠 My Data Engineering Principles
 
 ```mermaid
